@@ -11,17 +11,37 @@ I'm a computer science graduate from the University of Oregon and an independent
 
 ### 🛠 Featured iOS Projects
 
-#### ♟️ [Hex Chess](https://github.com/SawyerChristensen/Chexx)
-A mobile game bringing hexagonal chess to iOS.
-* **Tech:** Built natively using Swift and SpriteKit.
-* **Global Reach:** Fully localized into 18 languages, downloaded in 56 countries across the world.
-* **Link:** [App Store](https://apps.apple.com/us/app/hex-chess/id6743667749)
+<div>
+<img src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" align="right" width="200" alt="Card Games Icon">
 
 #### 🃏 [Card Games for iMessage](https://github.com/SawyerChristensen/DeckedOut)
 A turn-based multiplayer card game collection built specifically for the iMessage framework.
 * **Tech:** Swift, iMessage Extension Lifecycle management, and custom state management.
-* **Localization & ASO:** Optimized for international App Stores, navigating complex regional nuances (e.g., listing the Chinese version as "iMessage 纸牌游戏合集", preventing "Hand" from being directly translated to "Gin Rummy" for Arabic regions, and adjusting achievement titles like "executeur" for Dutch audiences).
-* **Link:** [App Store](https://apps.apple.com/us/app/card-games-for-imessage/id6757935828)
+* **Localization & ASO:** Optimized for the international App Stores, navigating complex regional nuances.
+
+<a href="https://apps.apple.com/us/app/card-games-for-imessage/id6757935828">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68bf1aa5ce96c8d80ef8228114f4" alt="Download on the App Store" width="150"/>
+</a>
+</div>
+
+<br clear="all" />
+<br>
+
+<div>
+<img src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" align="left" width="140" alt="Hex Chess Icon">
+
+#### ♟️ Hex Chess (HexChexx)
+A mobile game bringing hexagonal chess to iOS.
+* **Tech:** Built natively using Swift and SpriteKit.
+* **Global Reach:** Fully localized into 18 languages, focusing on exact cultural naming conventions, such as ensuring the Hindi version is properly titled "हेक्स शतरंज".
+* **GitHub Repository:** [SawyerChristensen/Chexx](https://github.com/SawyerChristensen/Chexx)
+
+<a href="https://apps.apple.com/us/app/hex-chess/id6743667749">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68bf1aa5ce96c8d80ef8228114f4" alt="Download on the App Store" width="150"/>
+</a>
+</div>
+
+<br clear="all" />
 
 ---
 

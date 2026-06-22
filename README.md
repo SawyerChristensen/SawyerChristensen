@@ -13,30 +13,26 @@ I'm a computer science graduate from the University of Oregon and an independent
 
 <div>
   
-<img alt="Card Games Icon" width="200" align="right" src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" >
+<img alt="Card Games Icon" width="192" align="right" src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" >
 
 #### 🃏 Card Games for iMessage
 A turn-based multiplayer card game collection built specifically for the iMessage framework.
-* **Tech:** Swift, iMessage Extension Lifecycle management, and custom state management.
-* **Localization & ASO:** Optimized for the international App Stores, navigating complex regional nuances.
-* **Links:** [GitHub Repo](https://github.com/SawyerChristensen/DeckedOut) • [App Store](https://apps.apple.com/us/app/card-games-for-imessage/id6757935828)
+- **Tech:** Swift, iMessage Extension Lifecycle management, and custom state management.
+- **Localization & ASO:** My newest app. Optimized for the international App Stores, downloaded in 66 countries across the globe.
+- **Links:** [GitHub Repo](https://github.com/SawyerChristensen/DeckedOut) • [App Store](https://apps.apple.com/us/app/card-games-for-imessage/id6757935828)
   
 </div>
-
 <br clear="all" />
-<br>
-
 <div>
 
-<img alt="Hex Chess Icon" width="200" align="left" src="https://github.com/user-attachments/assets/2de42a0b-71e7-4637-acd7-70aaf4782f75" />
+<img alt="Hex Chess Icon" width="192" align="left" src="https://github.com/user-attachments/assets/2de42a0b-71e7-4637-acd7-70aaf4782f75" />
 
-#### ♟️ Hex Chess
-A mobile game bringing hexagonal chess to iOS.
-* **Tech:** Built natively using Swift and SpriteKit.
-* **Global Reach:** Fully localized into 18 languages, focusing on exact cultural naming conventions, such as ensuring the Hindi version is properly titled "हेक्स शतरंज".
-* **Links:** [GitHub Repo](https://github.com/SawyerChristensen/Chexx) • [App Store](https://apps.apple.com/us/app/hex-chess/id6743667749)
+#### ♟️ Hexagonal Chess
+A modern take on traditional chess. As if chess wasn't hard enough!
+- **Tech:** Built natively using Swift and SpriteKit. Online multiplayer facilitated via a Firestore backend.
+- **Global Reach:** Fully localized into 18 languages, downloaded in 56 countries.
+- **Links:** [GitHub Repo](https://github.com/SawyerChristensen/Chexx) • [App Store](https://apps.apple.com/us/app/hex-chess/id6743667749)
 </div>
-
 <br clear="all" />
 
 ---
@@ -51,8 +47,7 @@ A mobile game bringing hexagonal chess to iOS.
 </p>
 
 * **Languages & Frameworks:** Swift, SwiftUI, SpriteKit, iMessage framework.
-* **Specialties:** Solo mobile app architecture, App Store Optimization (ASO), international software localization.
-* **Infrastructure:** Enterprise server hardware configuration (Dell PowerEdge R610) and local LLM deployment (Ollama, Project N.O.M.A.D.).
+* **Specialties:** iOS app architecture, App Store Optimization (ASO), international software localization.
 
 ---
 

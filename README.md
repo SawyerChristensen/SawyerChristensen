@@ -3,8 +3,8 @@
 I'm a computer science graduate from the University of Oregon and an independent iOS developer based in Oregon. My professional background includes working as a Cybersecurity Analyst, a Research Assistant at the University of Konstanz, and a local photographer.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://apps.apple.com/us/developer/YOUR-DEVELOPER-ID" target="_blank"><img src="https://img.shields.io/badge/-App_Store-0D96F2?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
+  <a href="https://www.linkedin.com/in/sawyerchristensen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://apps.apple.com/us/developer/sawyer-christensen/id1803902058" target="_blank"><img src="https://img.shields.io/badge/-App_Store-0D96F2?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"></a>
 </div>
 
 ---
@@ -34,7 +34,7 @@ A turn-based multiplayer card game collection built specifically for the iMessag
 A mobile game bringing hexagonal chess to iOS.
 * **Tech:** Built natively using Swift and SpriteKit.
 * **Global Reach:** Fully localized into 18 languages, focusing on exact cultural naming conventions, such as ensuring the Hindi version is properly titled "हेक्स शतरंज".
-* **Links:** [App Store](https://apps.apple.com/us/app/hex-chess/id6743667749) • [GitHub Repo](https://github.com/SawyerChristensen/Chexx)
+* **Links:** [GitHub Repo](https://github.com/SawyerChristensen/Chexx) • [App Store](https://apps.apple.com/us/app/hex-chess/id6743667749)
 </div>
 
 <br clear="all" />

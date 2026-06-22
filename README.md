@@ -28,13 +28,14 @@ A turn-based multiplayer card game collection built specifically for the iMessag
 <br>
 
 <div>
-<img src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" align="left" width="140" alt="Hex Chess Icon">
 
-#### ♟️ Hex Chess (HexChexx)
+<img width="200" alt="hex-chess" align="left" src="https://github.com/user-attachments/assets/2de42a0b-71e7-4637-acd7-70aaf4782f75" />
+
+#### ♟️ [Hex Chess](https://github.com/SawyerChristensen/Chexx)
 A mobile game bringing hexagonal chess to iOS.
 * **Tech:** Built natively using Swift and SpriteKit.
 * **Global Reach:** Fully localized into 18 languages, focusing on exact cultural naming conventions, such as ensuring the Hindi version is properly titled "हेक्स शतरंज".
-* **GitHub Repository:** [SawyerChristensen/Chexx](https://github.com/SawyerChristensen/Chexx)
+
 
 <a href="https://apps.apple.com/us/app/hex-chess/id6743667749">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1276560000&h=7e7b68bf1aa5ce96c8d80ef8228114f4" alt="Download on the App Store" width="150"/>

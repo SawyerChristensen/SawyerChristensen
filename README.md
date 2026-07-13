@@ -16,9 +16,9 @@ I'm a computer science graduate from the University of Oregon and an independent
 <img alt="Card Games Icon" width="192" align="right" src="https://github.com/user-attachments/assets/6de3f8a7-fedf-42da-a814-64b3b0210c38" >
 
 #### 🃏 [Card Games for iMessage](https://github.com/SawyerChristensen/DeckedOut)
-A turn-based multiplayer card game collection built specifically for the iMessage framework.
-- **Tech:** Swift, iMessage Extension Lifecycle management, and custom state management.
-- **Localization & ASO:** Optimized for the international App Stores, downloaded in 66 countries across the globe.
+A turn-based multiplayer card game collection built specifically for iMessage.
+- **Tech:** Swift, iMessage Extension Lifecycle management, custom state management.
+- **Localization & ASO:** Optimized for the international App Stores, downloaded in 66 countries.
 - [Download on the App Store](https://apps.apple.com/us/app/card-games-for-imessage/id6757935828)
   
 </div>

@@ -1,6 +1,6 @@
 # Sawyer Christensen
 
-I'm a computer science graduate from the University of Oregon and an independent iOS developer based in Oregon. My professional background includes working as a Cybersecurity Analyst, a Research Assistant at the University of Konstanz, and a local photographer.
+I'm a computer science graduate from the University of Oregon and an independent iOS developer based in Oregon. My professional background includes working as a Cybersecurity Analyst & a Research Assistant at the University of Konstanz.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sawyerchristensen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
